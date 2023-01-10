@@ -1,2 +1,2 @@
-# my-first-repository
-这是我第一次创建的github仓库
+这里是小白学前端
+我第一次来github写东西,很是新鲜
